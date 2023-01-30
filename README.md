@@ -8,3 +8,4 @@ The script only detects .DB files on the sample folder. This is done in order to
 - [ ] Cleanup output .csv names
 - [ ] Add .csv naming scheme (date and time, TOPAS serial n°).
 - [ ] Add a warning for the empty databases.
+- [ ] Fix datetime format of the TimeStamp (to comply with UTC time format)
