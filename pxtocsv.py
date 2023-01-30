@@ -12,7 +12,7 @@ for name in samples:
     index += 1
 
 
-val = int(input('Index of DB to convert: '))
+val = int(input('Index of DB to convert: ')) - 1 
 
 pxData = Table('./sample/' + samples[val])
 
